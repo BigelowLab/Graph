@@ -14,7 +14,7 @@ Using the plugin Graph_, the user may additionally select the binary image to op
   + Centroids requires `X` and `Y` in the Results Table
   + Centers of Mass requires `XM` and `YM` in the Results Table
 
-![adjacency](Adjacency.png)
+![adjacency](Adjacencies.png)
 
  The adjacency lists (aka Connected Components) for each subgraph as shown in the log window like that shown below. Particles are identified (1,2,3,...) by the row number assigned to them in the Results Table.
 
