@@ -18,6 +18,7 @@ Using the plugin Graph_, the user may additionally select the binary image to op
 
  The adjacency lists (aka Connected Components) for each subgraph as shown in the log window like that shown below. Particles are identified (1,2,3,...) by the row number assigned to them in the Results Table.
 
+```
 Number of connected components = 22
 CC-1: 1 10 13 17 24 25
 CC-2: 2
@@ -41,3 +42,4 @@ CC-19: 55 63
 CC-20: 56 61
 CC-21: 57 62 60
 CC-22: 59 64 
+```
